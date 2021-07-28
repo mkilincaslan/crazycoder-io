@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Fintech Sandpit
-- 🌱 I’m currently learning ... Vue.js & Kotlin
+- 🔭 I’m currently working on ... No where!
+- 🌱 I’m currently learning ... Nuxt.js & Kotlin
 - 👯 I’m looking to collaborate on ... React Native & React.js & Vue.js & Express.js
 - 🤔 I’m looking for help with ... Java & Kotlin
 - 💬 Ask me about ... JS & TS
