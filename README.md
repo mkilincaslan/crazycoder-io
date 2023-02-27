@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://logos-download.com/wp-content/uploads/2016/12/Amazon_Web_Services_logo_AWS.png" width="100" alt="AWS"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60" alt="Git"/>
   <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width="100" alt="Docker"/>
-  <img src="https://www.mabl.com/hubfs/CICDBlog.png" width="100" alt="CI/CD"/>
+  <img src="https://www.mabl.com/hubfs/CICDBlog.png" width="120" alt="CI/CD"/>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_4phcqP2--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/9o28pafkctlt8lkc06op.PNG" width="180" alt="Testing"/>
 </div>
 
@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <div style="flex-direction: row">
   <a href="https://instagram.com/mesut.kilincaslan">
     <img src="https://freeiconshop.com/wp-content/uploads/edd/instagram-new-flat.png" width="40" alt="instagram">
-  </a
+  </a>
   <a href="https://twitter.com/mesutklncaslan">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="50" alt="twitter">
-  </a
+  </a>
   <a href="https://www.linkedin.com/in/mesut-kilincaslan-22417a151/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="linkedin">
-  </a
+  </a>
 </div>
