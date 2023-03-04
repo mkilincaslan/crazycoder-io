@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at ... [BlueCall](https://www.bluecallapp.com/)
 - 😄 Pronouns: ... crazycoder
 
-## What I Have Experiences On;
+## What Experiences I Have On;
 <div style="flex-direction: row">
   <img src="https://user-images.githubusercontent.com/34383104/221695892-dec58b1e-c385-4e28-a134-f606b232b6ff.png" width="70" alt="React Native"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" width="60" alt="Vue.js"/>
